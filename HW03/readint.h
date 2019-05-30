@@ -1,4 +1,4 @@
-#ifndef READINT_H_ 
+#ifndef READINT_H_
 #define READINT_H_ 
 #include <string> 
 

@@ -5,7 +5,7 @@ using namespace std;
 
 int read_int(const string& prompt, int low, int high)
 {
-	if (high < low) { //If an empty set is created it throws an invalid argument back to main
+	if (high < low || high == low) { //If an empty set is created it throws an invalid argument back to main
 
 		throw invalid_argument("");
 	}
