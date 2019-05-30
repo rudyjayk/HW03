@@ -1,0 +1,7 @@
+﻿  HW03.cpp
+C:\Users\rudyj\Desktop\HW03\HW03\HW03\HW03.cpp(19,29): warning C4101:  'ex': unreferenced local variable
+  readint.cpp
+C:\Users\rudyj\Desktop\HW03\HW03\HW03\HW03.cpp(31,27): warning C4101:  'e': unreferenced local variable
+  Generating Code...
+C:\Users\rudyj\Desktop\HW03\HW03\HW03\readint.cpp(24,29): warning C4101:  'ex': unreferenced local variable
+  HW03.vcxproj -> C:\Users\rudyj\Desktop\HW03\HW03\Debug\HW03.exe
