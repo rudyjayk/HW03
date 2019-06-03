@@ -1,2 +1,4 @@
-﻿  UnitTest1.cpp
+﻿  pch.cpp
+  UnitTest1.cpp
+     Creating library C:\Users\rudyj\Desktop\HW03\HW03\Debug\UnitTest1.lib and object C:\Users\rudyj\Desktop\HW03\HW03\Debug\UnitTest1.exp
   UnitTest1.vcxproj -> C:\Users\rudyj\Desktop\HW03\HW03\Debug\UnitTest1.dll
